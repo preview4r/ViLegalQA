@@ -46,7 +46,7 @@ An Unified Framework for Fine-tuning and Instruction Fine-tuning Question Answer
 
 ```bash
 # Clone the repository
-git clone https://github.com/ntphuc149/ViLegalQA.git
+git clone https://github.com/preview4r/ViLegalQA.git
 cd ViLegalQA
 
 # Install dependencies
@@ -156,7 +156,7 @@ max_target_length: 256
 predict_with_generate: true
 
 # Dataset
-dataset_name: "Truong-Phuc/ViBidLQA"
+dataset_name: "preview/ViBidLQA"
 data_split_mode: "auto"
 train_ratio: 0.8
 val_ratio: 0.1
@@ -405,17 +405,7 @@ mypy src/ configs/
 
 ## 📝 Citation
 
-If you use this work in your research, please cite:
-
-```bibtex
-@article{nguyen2024vibidlqa,
-  title={ViBidLQA: A Comprehensive Dataset and Framework for Vietnamese Legal Question Answering},
-  author={Nguyen, Truong-Phuc and others},
-  journal={Artificial Intelligence and Law Journal},
-  year={2024},
-  publisher={Springer}
-}
-```
+Coming soon...
 
 ---
 
@@ -436,10 +426,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: Truong-Phuc Nguyen
-- **Email**: ntphuc149@gmail.com
-- **GitHub**: [@ntphuc149](https://github.com/ntphuc149)
-- **Issues**: [GitHub Issues](https://github.com/ntphuc149/ViLegalQA/issues)
+- **Author**: Anonymous
+- **Email**: anoymous@gmail.com
+- **GitHub**: [preview4r](https://github.com/preview4r)
+- **Issues**: [GitHub Issues](https://github.com/preview4r/ViLegalQA/issues)
 
 ---
 
@@ -447,7 +437,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **🌟 Star this repository if you find it helpful! 🌟**
 
-[![GitHub stars](https://img.shields.io/github/stars/ntphuc149/ViLegalQA?style=social)](https://github.com/ntphuc149/ViLegalQA/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/preview4r/ViLegalQA?style=social)](https://github.com/preview4r/ViLegalQA/stargazers)
 
 </div>
 
